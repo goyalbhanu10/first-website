@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>🔥Bhanu's Personal Website</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <table cellspacing="20px">
+            <tr>
+                <td>
+                     <img src="images/bhanu.png" alt="bhanu ">
+                </td>
+                <td>
+                    <h1>Bhanu Goyal</h1>
+                    <p><em>I am a student of <strong><a href="#">Chandigarh University</a></strong></em></p>
+        <p>I love coffee and brew my own beers.</p>
+                </td>
+            </tr>
+        </table>
+            <hr>
+        <h3>
+            Books and Teachings
+        </h3>
+        <ul>
+            <li>The complete programmer</li>
+                        <li>The web developer</li>
+        </ul>
+        <h3>
+            Work Experience 
+        </h3>
+        <table border="1px">
+            <thead>
+                <tr>
+                    <th>
+                    Date
+                    </th>
+                    <th>
+                        Work
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>
+                    2019-2023
+                </td>
+                <td>
+                    Lead Developer
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    2020
+                </td>
+                <td>
+                    coder at hacker rank
+                </td>
+            </tr>
+            </tbody>
+        </table>
+            <h3>
+                Skills
+        </h3>
+            <table border="1px">
+                <tr>
+                   
+                    <td>
+                        Photography 
+                    </td>
+                    <td>
+                        ⭐⭐⭐⭐⭐⭐
+                    </td>
+                    <td>
+                        Painting 
+                    </td>
+                    <td>
+                        ⭐⭐⭐⭐⭐⭐
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Video Editing 
+                    </td>
+                    <td>
+                        ⭐⭐⭐⭐⭐⭐
+                    </td>
+                    <td>
+                        Programming 
+                    </td>
+                    <td>
+                        ⭐⭐⭐⭐⭐⭐
+                    </td>
+                </tr>
+            </table>
+        <hr>
+        <a href="hobbies.html">My Hobbies </a>
+        <a href="contact.html">Contact Details</a>
+       
+    </body>
+</html>
